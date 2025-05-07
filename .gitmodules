@@ -1,0 +1,6 @@
+[submodule "submodules/devops_final"]
+	path = submodules/devops_final
+	url = https://github.com/mukesh-62/devops_final.git
+[submodule "submodules/another-repo"]
+	path = submodules/another-repo
+	url = https://github.com/mukesh-62/another-repo.git
