@@ -4,3 +4,6 @@
 [submodule "submodules/another-repo"]
 	path = submodules/another-repo
 	url = https://github.com/mukesh-62/another-repo.git
+[submodule "submodules/sub-repo"]
+	path = submodules/sub-repo
+	url = https://github.com/mukesh-62/sub-repo.git
